@@ -1,0 +1,15 @@
+.text-justify {
+  text-align: justify;
+}
+
+.img-responsive{
+    display: block;
+    height: auto;
+    max-width: 75%;
+}
+
+.img-responsive-large{
+    display: block;
+    height: auto;
+    max-width: 45%;
+}
